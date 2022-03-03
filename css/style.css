@@ -1,0 +1,19 @@
+/* Created by: P.J. Lobetti
+ * Created on: Mar. 2022
+ * This CSS file defines the style for index.html 
+*/
+
+body {
+  background-color: peachpuff;
+}
+
+h1 {
+  background-color: rgb(255, 218, 185);
+  color: hsl(147, 50%, 47%);
+  padding: 40px;
+  text-align: center;
+}
+
+p {
+  background-color: #CD853F;
+}
